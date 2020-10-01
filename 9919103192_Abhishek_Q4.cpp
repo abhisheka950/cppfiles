@@ -21,6 +21,7 @@ void convert(const string &str) {
 
         if (isalnum(word)) {
             cout << word;
+            cout << word;
         } else if (word == '(')
             q.push(word);
         else if (word == ')') {
