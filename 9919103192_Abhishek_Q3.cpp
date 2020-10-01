@@ -55,8 +55,8 @@ int main() {
     obj arr4[] = {10, 9, 8, 7, 6};
 
     cout << "Selection: \n";
-    selection(arr, 5);
-    selection(arr2, 5);
+    selection(arr, 9);
+    selection(arr2, 6);
     selection(arr3, 5);
     selection(arr4, 5);
     for (auto x: arr)
